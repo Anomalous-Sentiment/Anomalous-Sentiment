@@ -8,19 +8,19 @@ Fun Fact: I spent 3 hours thinking of a fun fact.
 
 #### Languages
 
-[![Languages](https://skillicons.dev/icons?i=js,python,java,html)](https://skillicons.dev) 
+![Languages](https://skillicons.dev/icons?i=js,python,java,html)
 
 #### Frameworks
 
-[![Frameworks](https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs)](https://skillicons.dev) 
+![Frameworks](https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs)
 
 #### Databases
 
-[![Databases](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev) 
+![Databases](https://skillicons.dev/icons?i=postgres,mysql)
 
 #### DevOps
 
-[![DevOps](https://skillicons.dev/icons?i=github,git,docker)](https://skillicons.dev)
+![DevOps](https://skillicons.dev/icons?i=github,git,docker)
 
 ***
 
