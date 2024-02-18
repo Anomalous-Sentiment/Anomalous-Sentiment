@@ -24,7 +24,7 @@ Fun Fact: I spent 3 hours thinking of a fun fact.
 
 ***
 
-[![Anomalous-Sentiment's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anomalous-Sentiment&show_icons=true&theme=transparent&show=,prs_merged,prs_merged_percentage)]
+![Anomalous-Sentiment's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anomalous-Sentiment&show_icons=true&theme=transparent&show=,prs_merged,prs_merged_percentage)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anomalous-Sentiment&layout=compact&theme=transparent)
 
 <!--
