@@ -8,7 +8,7 @@ Fun Fact: I spent 3 hours thinking of a fun fact.
 
 ### Skills & Experience
 
-#### Langauges
+#### Languages
 
 [![My Skills](https://skillicons.dev/icons?i=js,python,java,html)](https://skillicons.dev) 
 
