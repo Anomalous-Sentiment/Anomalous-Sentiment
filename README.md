@@ -1,6 +1,6 @@
 ### Introduction
 
-An amateur software developer. Currently looking for something interesting to do...
+An amateur software developer. Currently experimenting with Godot 4.3 and trying to make an RPG.
 
 Fun Fact: I spent 3 hours thinking of a fun fact.
 
